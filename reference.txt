@@ -1,0 +1,6 @@
+GUI of app : 
+https://datatofish.com/how-to-create-a-gui-in-python/
+
+Twitter bot :
+https://towardsdatascience.com/building-a-python-ui-for-comparing-data-13c10693d9e4
+
